@@ -1,0 +1,4 @@
+ofxCv
+ofxMSACore
+ofxMSAPhysics
+ofxOpenCv
